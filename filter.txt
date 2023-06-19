@@ -1,2 +1,2 @@
 # custom list of sites to block access to
-drudgereport.com
+||drudgereport.com^
